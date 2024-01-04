@@ -1,0 +1,298 @@
+1 Joan found num19 seashells on the beach .
+2 she gave Sam some of her seashells .
+3 She has num3 seashell .
+4 How many seashells did she give to Sam ?	num19 num3 -	1 2 3
+1 There were num1 bales of hay in the barn .
+2 Tim stacked bales in the barn today .
+3 There are now num19 bales of hay in the barn .
+4 How many bales did he store in the barn ?	num19 num1 -	1 2 3
+1 Mary is baking a cake .
+2 The recipe wants num8 cups of flour .
+3 She already put in num17 cups .
+4 How many cups does she need to add ?	num8 num17 -	1 2 3
+1 Sara 's high school played num4 basketball games this year .
+2 The team won most of their games .
+3 They were defeated during num11 games .
+4 How many games did they win ?	num4 num11 -	1 2 3
+1 There are num1 walnut trees currently in the park .
+2 Park workers will plant walnut trees today .
+3 When the workers are finished there will be num15 walnut trees in the park .
+4 How many walnut trees did the workers plant today ?	num15 num1 -	1 2 3
+1 Mike had num10 peaches at his roadside fruit dish .
+2 He went to the orchard and picked peaches to stock up .
+3 There are now num12 peaches .
+4 how many did he pick ?	num12 num10 -	1 2 3
+1 There were num6 roses in the vase .
+2 Mary cut some roses from her flower garden .
+3 There are now num20 roses in the vase .
+4 How many roses did she cut ?	num20 num6 -	1 2 3
+1 Joan went to num18 football games this year .
+2 She went to num2 games last year .
+3 How many football games did Joan go to in all ?	num18 num2 +	1 2
+1 Tom has num20 yellow balloons.
+2 Sara has num4 yellow balloons .
+3 How many yellow balloons do they have in total ?	num20 num4 +	1 2
+1 There are num16 walnut trees currently in the park .
+2 Park workers will plant num15 walnut trees today .
+3 How many walnut trees will the park have when the workers are finished ?	num16 num15 +	1 2
+1 Sam had num13 dimes in his bank .
+2 His dad gave him num5 dimes .
+3 How many dimes does Sam have now ?	num13 num5 +	1 2
+1 Alyssa 's dog had puppies .
+2 She gave num9 to her friends .
+3 She now has num19 puppies .
+4 How many puppies did she have to start with ?	num9 num19 +	1 2 3
+1 A restaurant served num20 pizzas during lunch, and num2 during dinner today .
+2 How many pizzas were served today ?	num20 num2 +	1
+1 There are num14 pencils in the drawer .
+2 Tim placed num19 pencils in the drawer .
+3 How many pencils are now there in total ?	num14 num19 +	1 2
+1 Joan found num14 seashells, and Jessica found num4 seashells on the beach .
+2 How many seashells did they find together ?	num14 num4 +	1
+1 Sandy grew num20 carrots .
+2 Sam grew num15 carrots .
+3 How many carrots did they grow in total ?	num20 num15 +	1 2
+1 Benny picked num8 apples, and Dan picked num17 apples from the apple tree .
+2 How many apples were picked in total ?	num8 num17 +	1
+1 Jason has num8 blue and 16 red marbles .
+2 Tom has num18 blue marbles .
+3 How many blue marbles do they have in all ?	num8 num18 +	1 2
+1 Sam found num7 seashells, and Mary found num19 seashells on the beach .
+2 How many seashells did they find together ?	num7 num19 +	1
+1 Jason grew num3 watermelons and 18 turnips .
+2 Nancy grew num11 watermelons .
+3 How many watermelons did they grow in total ?	num3 num11 +	1 2
+1 There are num19 rulers and 34 crayons in the drawer .
+2 Tim placed num9 rulers in the drawer .
+3 How many rulers are now there in all ?	num19 num9 +	1 2
+1 Sara picked num13 pears, and Sally picked num16 pears from the pear tree .
+2 How many pears were picked in total ?	num13 num16 +	1
+1 Keith has num15 books .
+2 Jason has num4 books .
+3 How many books do they have together ?	num15 num4 +	1 2
+1 Jason had num17 quarters in his bank .
+2 His dad gave him num14 quarters .
+3 How many quarters does he have now ?	num17 num14 +	1 2
+1 Tom found num18 seashells, and Fred found num15 seashells on the beach .
+2 When they cleaned them , they discovered that 29 were cracked .
+3 How many seashells did they find together ?	num18 num15 +	1 2
+1 Sara has num17 red and 15 green balloons .
+2 Sandy has num8 red balloons .
+3 How many red balloons do they have in total ?	num17 num8 +	1 2
+1 Joan picked num20 oranges, and Sara picked num13 oranges .
+2 Alyssa picked 30 pears .
+3 How many oranges were picked in total ?	num20 num13 +	1 2
+1 Fred went to num20 basketball games this year , but missed 35 .
+2 He went to num5 games last year .
+3 How many basketball games did Fred go to in total ?	num20 num5 +	1 2
+1 There are num8 pencils and 44 crayons in the drawer .
+2 Joan placed num2 pencils in the drawer .
+3 How many pencils are now there in total ?	num8 num2 +	1 2
+1 Sam had 49 pennies and num17 nickels in his bank .
+2 His dad gave him num12 nickels and 31 quarters .
+3 How many nickels does he have now ?	num17 num12 +	1 2
+1 Dan grew num20 turnips and 38 cantelopes .
+2 Jessica grew num13 turnips .
+3 How many turnips did they grow in total ?	num20 num13 +	1 2
+1 There are num6 walnut trees currently in the park .
+2 Park workers will plant num9 walnut trees today .
+3 How many walnut trees will the park have when the workers are finished ?	num6 num9 +	1 2
+1 Sara had num13 quarters in her bank .
+2 Her dad gave her num15 quarters .
+3 How many quarters does she have now ?	num13 num15 +	1 2
+1 There are num14 pencils in the drawer .
+2 Mike placed num6 pencils in the drawer .
+3 How many pencils are now there in total ?	num14 num6 +	1 2
+1 Joan has num3 books .
+2 Tom has num12 books .
+3 How many books do they have together ?	num3 num12 +	1 2
+1 Joan has num9 blue balloons.
+2 Melanie has num14 blue balloons .
+3 How many blue balloons do they have in total ?	num9 num14 +	1 2
+1 Fred grew num3 cantelopes .
+2 Tim grew num19 cantelopes .
+3 How many cantelopes did they grow in total ?	num3 num19 +	1 2
+1 Sam went to num6 football games this year .
+2 He went to num13 games last year .
+3 How many football games did Sam go to in all ?	num6 num13 +	1 2
+1 Mary found num16 seashells, and Jessica found num17 seashells on the beach .
+2 How many seashells did they find together ?	num16 num17 +	1
+1 Nancy grew num5 potatoes .
+2 Sandy grew num19 potatoes .
+3 How many potatoes did they grow in total ?	num5 num19 +	1 2
+1 There are num14 crayons in the drawer .
+2 Benny placed num18 crayons in the drawer .
+3 How many crayons are now there in total ?	num14 num18 +	1 2
+1 There are num16 oak trees currently in the park .
+2 Park workers will plant num3 oak trees today .
+3 How many oak trees will the park have when the workers are finished ?	num16 num3 +	1 2
+1 Tom found num20 seashells but num1 were broken .
+2 How many unbroken seashells did Tom find ?	num20 num1 -	1
+1 Sally picked num19 lemons, and Mary picked num4 lemons from the lemon tree .
+2 How many lemons were picked in total ?	num19 num4 +	1
+1 A restaurant served num13 cakes during lunch and num17 during dinner today .
+2 How many cakes were served today ?	num13 num17 +	1
+1 Joan has num17 orange balloons but lost num6 of them .
+2 How many orange balloons does Joan have now ?	num17 num6 -	1
+1 Fred had num11 dimes in his bank .
+2 His sister borrowed num9 of his dimes .
+3 How many dimes does Fred have now ?	num11 num9 -	1 2
+1 Joan 's cat had num1 kittens .
+2 She gave num2 to her friends .
+3 How many kittens does she have now ?	num1 num2 -	1 2
+1 There are num8 dogwood trees currently in the park .
+2 Park workers will plant num14 dogwood trees today .
+3 How many dogwood trees will the park have when the workers are finished ?	num8 num14 +	1 2
+1 There are num16 pencils in the drawer .
+2 Nancy placed num2 pencils in the drawer .
+3 How many pencils are now there in total ?	num16 num2 +	1 2
+1 Sam found num1 seashells on the beach.
+2 He gave Joan num3 of the seashells .
+3 How many seashells does he now have ?	num1 num3 -	1 2
+1 Tim has num18 books .
+2 Mike has num1 books .
+3 How many books do they have together ?	num18 num1 +	1 2
+1 Mike has num13 baseball cards .
+2 Sam bought num3 of Mike 's baseball cards .
+3 How many baseball cards does Mike have now ?	num13 num3 -	1 2
+1 Sandy grew num5 pumpkins .
+2 Mike grew num20 pumpkins .
+3 How many pumpkins did they grow in total ?	num5 num20 +	1 2
+1 Tim has num19 books .
+2 Sam has num9 books .
+3 How many books do they have together ?	num19 num9 +	1 2
+1 Dan has num16 violet marbles.
+2 He gave Mary num3 of the marbles .
+3 How many violet marbles does he now have ?	num16 num3 -	1 2
+1 There are num20 popular trees currently in the park .
+2 Park workers will plant num12 popular trees today .
+3 How many popular trees will the park have when the workers are finished ?	num20 num12 +	1 2
+1 There are num19 scissors in the drawer .
+2 Keith placed num3 scissors in the drawer .
+3 How many scissors are now there in all ?	num19 num3 +	1 2
+1 Alyssa picked num20 pears and Nancy picked num15 pears from the pear tree .
+2 How many pears were picked in all ?	num20 num15 +	1
+1 Sam had num16 pennies in his bank .
+2 He spent num14 of his pennies .
+3 How many pennies does he have now ?	num16 num14 -	1 2
+1 Joan found num16 seashells on the beach.
+2 She gave Mike num5 of the seashells .
+3 How many seashells does she now have ?	num16 num5 -	1 2
+1 Sam has num18 books .
+2 Joan has num11 books .
+3 How many books do they have together ?	num18 num11 +	1 2
+1 Mary picked num2 oranges and Jason picked num7 oranges from the orange tree .
+2 How many oranges were picked in total ?	num2 num7 +	1
+1 Sally had num9 quarters in her bank .
+2 She spent num7 of her quarters .
+3 How many quarters does she have now ?	num9 num7 -	1 2
+1 Melanie grew num1 turnips .
+2 Benny grew num14 turnips .
+3 How many turnips did they grow in all ?	num1 num14 +	1 2
+1 Jason has num4 Pokemon cards .
+2 Alyssa bought num7 of Jason 's Pokemon cards .
+3 How many Pokemon cards does Jason have now ?	num4 num7 -	1 2
+1 There are num17 walnut trees currently in the park .
+2 Park workers will plant num13 walnut trees today .
+3 How many walnut trees will the park have when the workers are finished ?	num17 num13 +	1 2
+1 Fred has num7 green balloons.
+2 He gave Sandy num6 of the balloons .
+3 How many green balloons does he now have ?	num7 num6 -	1 2
+1 There are num19 pencils in the drawer .
+2 Sara placed num9 pencils in the drawer .
+3 How many pencils are now there in all ?	num19 num9 +	1 2
+1 Jason has num17 Pokemon cards .
+2 Benny bought num5 of Jason 's Pokemon cards .
+3 How many Pokemon cards does Jason have now ?	num17 num5 -	1 2
+1 Mike has num20 orange marbles.
+2 He gave Sam num13 of the marbles .
+3 How many orange marbles does he now have ?	num20 num13 -	1 2
+1 Joan had num13 dimes in her bank .
+2 She spent num17 of her dimes .
+3 How many dimes does she have now ?	num13 num17 -	1 2
+1 There are num18 orchid bushes currently in the park .
+2 Park workers will plant num4 orchid bushes today .
+3 How many orchid bushes will the park have when the workers are finished ?	num18 num4 +	1 2
+1 Sara picked num20 pears and Tim picked num4 pears from the pear tree .
+2 How many pears were picked in total ?	num20 num4 +	1
+1 Sam grew num20 watermelons , but the rabbits ate num17 watermelons .
+2 How many watermelons does Sam have ?	num20 num17 -	1
+1 Mary had num20 nickels in her bank .
+2 Her dad gave her num16 nickels .
+3 How many nickels does Mary have now ?	num20 num16 +	1 2
+1 Keith grew num5 turnips .
+2 Alyssa grew num20 turnips .
+3 How many turnips did they grow in all ?	num5 num20 +	1 2
+1 Mary has num15 yellow marbles.
+2 Joan has num3 yellow marbles .
+3 How many yellow marbles do they have in all ?	num15 num3 +	1 2
+1 Sally grew num15 carrots .
+2 Fred grew num1 carrots .
+3 How many carrots did they grow in all ?	num15 num1 +	1 2
+1 Tom found num18 seashells on the beach .
+2 he gave Jessica num7 of the seashells .
+3 How many seashells does he now have ?	num18 num7 -	1 2
+1 Fred has num1 baseball cards .
+2 Melanie bought num16 of Fred 's baseball cards .
+3 How many baseball cards does Fred have now ?	num1 num16 -	1 2
+1 Mary had num16 potatoes in the garden .
+2 The rabbits ate num15 of the potatoes .
+3 How many potatoes does Mary now have ?	num16 num15 -	1 2
+1 There are num18 oak trees currently in the park .
+2 Park workers had to cut down num12 oak trees that were damaged .
+3 How many oak trees will the park have when the workers are finished ?	num18 num12 -	1 2
+1 Jessica had num5 quarters in her bank .
+2 Her sister borrowed num11 of her quarters .
+3 How many quarters does Jessica have now ?	num5 num11 -	1 2
+1 A restaurant made num13 hamburgers to serve during lunch .
+2 Only num16 were actually served .
+3 How many hamburgers were over from lunch ?	num13 num16 -	1 2
+1 There are num16 crayons in the drawer .
+2 Mary took num2 crayons out of the drawer .
+3 How many crayons are there now ?	num16 num2 -	1 2
+1 Dan picked num5 limes and gave Sara num4 of the limes .
+2 How many limes does Dan have now ?	num5 num4 -	1
+1 Joan has num1 blue balloons but lost num10 of them .
+2 How many blue balloons does Joan have now ?	num1 num10 -	1
+1 Joan picked num2 apples from the orchard , and gave num4 apples to Melanie .
+2 How many apples does Joan have now ?	num2 num4 -	1
+1 Tom has num1 violet balloons.
+2 He gave Fred num6 of the balloons .
+3 How many violet balloons does he now have ?	num1 num6 -	1 2
+1 Fred has num15 baseball cards .
+2 Keith bought num6 of Fred 's baseball cards .
+3 How many baseball cards does Fred have now ?	num15 num6 -	1 2
+1 Fred found num9 seashells on the beach.
+2 He gave Jessica num19 of the seashells .
+3 How many seashells does he now have ?	num9 num19 -	1 2
+1 Sara grew num12 pumpkins , but the rabbits ate num8 pumpkins .
+2 How many pumpkins does Sara have ?	num12 num8 -	1
+1 Joan decided to sell all of her old books .
+2 She gathered up num5 books to sell .
+3 She sold num2 books in a yard sale .
+4 How many books does Joan now have ?	num5 num2 -	1 2 3
+1 There are num3 rulers in the drawer .
+2 Tim took num1 rulers from the drawer .
+3 How many rulers are now in the drawer ?	num3 num1 -	1 2
+1 There are num7 oak trees currently in the park .
+2 Park workers had to cut down num9 oak trees that were damaged .
+3 How many oak trees will be in the park when the workers are finished ?	num7 num9 -	1 2
+1 Joan purchased a basketball game for $ num4 , and a racing game for $ num16 .
+2 How much did Joan spend on video games ?	num4 num16 +	1
+1 Mike joined his school's band .
+2 He bought a trumpet for $ num2 , and a song book which was $ num5 .
+3 How much did Mike spend at the music store ?	num2 num5 +	1 2
+1 Alyssa bought some toys .
+2 She bought a football for $ num10 , and spent $ num1 on marbles .
+3 In total , how much did Alyssa spend on toys ?	num10 num1 +	1 2
+1 Jessica spent $ num2 on a cat toy , and a cage cost her $ num3 .
+2 What was the total cost of Jessica 's purchases ?	num2 num3 +	1
+1 Sara got fast food for lunch .
+2 Sara spent $ num7 on a hotdog and $ num18 on a salad .
+3 What was the total of the lunch bill ?	num7 num18 +	1 2
+1 Jason went to the mall on Saturday to buy clothes .
+2 He spent $ num12 on shorts and $ num1 on a jacket .
+3 In total , how much money did Jason spend on clothing ?	num12 num1 +	1 2
+1 Alyssa loves eating fruits .
+2 Alyssa paid $ num7 for grapes , and $ num3 for cherries .
+3 In total , how much money did Alyssa spend ?	num7 num3 +	1 2

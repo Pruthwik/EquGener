@@ -1,0 +1,310 @@
+1 A ship is filled with num3 tons of cargo .
+2 It stops in the Bahamas , where sailors load num19 tons of cargo onboard .
+3 How many tons of cargo does the ship hold now ?	num3 num19 +	1 2
+1 Before December , customers buy num12 ear muffs from the mall .
+2 During December , they buy num4 , and there are none .
+3 In all , how many ear muffs do the customers buy ?	num12 num4 +	1 2
+1 Diane is a beekeeper .
+2 Last year , she harvested num6 pounds of honey .
+3 This year , she bought some new hives and increased her honey harvest by num11 pounds .
+4 How many pounds of honey did Diane harvest this year ?	num6 num11 +	1 2 3
+1 An oil pipe in the sea broke .
+2 Before engineers started to fix the pipe , num7 liters of oil leaked into the water .
+3 While the engineers worked , the pipe leaked num20 liters of oil .
+4 In all , how many liters of oil leaked into the water ?	num7 num20 +	1 2 3
+1 A car company produced num9 cars in North America and num20 cars in Europe .
+2 How many cars is that in all ?	num9 num20 +	1
+1 Abe 's family moved from the Bahamas to Japan , so they had convert their money into Japanese yen .
+2 Their checking account now has num17 yen and their savings account now has num14 yen .
+3 How many yen do they have ?	num17 num14 +	1 2
+1 There are num12 books in Oak Grove 's public library .
+2 In addition , there are num15 books in its school libraries .
+3 How many books do the libraries in Oak Grove have overall ?	num12 num15 +	1 2
+1 There were originally num15 houses in Lincoln County .
+2 During a housing boom , developers built num7 .
+3 How many houses are there now in Lincoln County ?	num15 num7 +	1 2
+1 A farmer estimates that he will harvest num15 bushels of wheat .
+2 The weather is perfect during the growing season , so he harvests num2 bushels of wheat than expected .
+3 How many bushels of wheat does the farmer harvest ?	num15 num2 +	1 2
+1 Christina just transferred $ num7 out of her bank account .
+2 As a result , the account now has $ num4 in it .
+3 How much money was in the account before the transfer ?	num7 num4 +	1 2
+1 Last year at Newberg 's airport , num7 passengers landed on time .
+2 Unfortunately , num18 passengers landed late .
+3 In all , how many passengers landed in Newberg last year ?	num7 num18 +	1 2
+1 A dust storm sweeps across the prairie .
+2 It covers num5 acres of the prairie in dust , but leaves num16 acres untouched .
+3 How many acres does the prairie cover ?	num5 num16 -	1 2
+1 Some insects called aphids attack a large farm .
+2 In response , the farmer releases ladybugs onto the fields .
+3 There are num9 ladybugs with spots and num11 ladybugs without spots .
+4 How many ladybugs are there in all ?	num9 num11 +	1 2 3
+1 Last year , num4 people were born in a country , and num2 people immigrated to it .
+2 How many new people began living in the country last year ?	num4 num2 +	1
+1 A ship full of grain crashes into a coral reef .
+2 By the time the ship is fixed , num1 tons of grain have spilled into the water .
+3 Only num3 tons of grain remain onboard .
+4 How many tons of grain did the ship originally contain ?	num1 num3 +	1 2 3
+1 To fill an order , the factory dyed num3 yards of silk green and num17 yards pink .
+2 How many yards of silk did it dye for that order ?	num3 num17 +	1
+1 A multi-national corporation has num6 part-time employees and num16 full-time employees .
+2 How many employees work for the corporation ?	num6 num16 +	1
+1 Each year , salmon travel upstream , going from the ocean to the rivers where they were born .
+2 This year , num1 male and num6 female salmon returned to their rivers .
+3 How many salmon made the trip ?	num1 num6 +	1 2
+1 A bathing suit manufacturer has a supply of num13 bathing suits for men .
+2 In addition , it has num18 bathing suits for women .
+3 How many bathing suits are available overall ?	num13 num18 +	1 2
+1 Before the recent housing boom , there were num8 houses in Lawrence County .
+2 Now , there are num5 houses .
+3 How many houses did developers build during the housing boom ?	num5 num8 -	1 2
+1 A worker at a medical lab is studying blood samples .
+2 2 samples contained a total of num7 blood cells .
+3 The first sample contained num1 blood cells .
+4 How many blood cells were in the second sample ?	num7 num1 -	1 2 3
+1 So far , an orchard has sold a combined total of num10 pounds of fresh and frozen fruit this season .
+2 If they have sold num7 pounds of frozen fruit , how many pounds of fresh fruit have been sold so far ?	num10 num7 -	1
+1 Recently , the value of Kate 's retirement fund decreased by $ num10 .
+2 If her fund was worth $ num16 before , how much is it worth now ?	num16 num10 -	1
+1 The Richmond Tigers sold a total of num17 tickets last season .
+2 If they sold num2 tickets in the first half of the season , how many tickets did they sell in the second half ?	num17 num2 -	1
+1 A petri dish originally contained num12 bacteria .
+2 A scientist let the bacteria grow and now there are num6 of them .
+3 How many more bacteria are there now ?	num6 num12 -	1 2
+1 Tori is a school janitor .
+2 Last week , she picked up a total of num17 pieces of trash .
+3 If she picked up num1 pieces of trash in the classrooms , how many pieces of trash did Tori pick up outside the classrooms ?	num17 num1 -	1 2
+1 Molly owns the Wafting Pie Company .
+2 This morning , her employees used num19 eggs to bake pumpkin pies .
+3 If her employees used a total of num2 eggs today , how many eggs did they use in the afternoon ?	num2 num19 -	1 2
+1 Each of farmer Cunningham 's num17 lambs is either black or white .
+2 There are num16 white ones .
+3 How many of Farmer Cunningham 's lambs are black ?	num17 num16 -	1 2
+1 Students at Arcadia schools are participating in a coat drive .
+2 num5 coats have been collected so far .
+3 num13 coats were collected from the high schools , and the rest from the elementary schools .
+4 How many coats were collected at the elementary schools ?	num5 num13 -	1 2 3
+1 A company painted some houses in Hancock County white and blue using a total of num8 gallons of paint .
+2 If they used num5 gallons of white paint , how many gallons of blue paint did the company use ?	num8 num5 -	1
+1 The Silvergrove Public Library used a grant to purchase num1 books .
+2 Now the library has a total of num9 books .
+3 How many books did the library have before the grant ?	num9 num1 -	1 2
+1 A cell phone company has a total of num3 customers across the world .
+2 If num17 of its customers live in the United States , how many of its customers live in other countries ?	num3 num17 -	1
+1 Last year , egg producers in Douglas County produced num3 eggs .
+2 This year , those same farms produced num19 eggs .
+3 How many more eggs did the farms produce this year ?	num19 num3 -	1 2
+1 An oil pipe in the sea broke .
+2 Before engineers started to fix the pipe , num4 gallons of oil leaked into the water .
+3 A total of num14 gallons of oil leaked before the pipe was fixed .
+4 How many gallons of oil leaked while the engineers were fixing the pipe ?	num14 num4 -	1 2 3
+1 A treasure hunter discovered a buried treasure chest filled with a total of num7 gems .
+2 num4 of the gems were diamonds , and the rest were rubies .
+3 How many of the gems were rubies ?	num7 num4 -	1 2
+1 Shannon and her family use up a lot of strawberry and blueberry jelly , since they eat toast every morning .
+2 At the moment , they have a combined total of num3 grams of jelly .
+3 If they have num20 grams of blueberry jelly , how many grams of strawberry jelly do they have ?	num3 num20 -	1 2
+1 While playing a video game , Paul scored num5 points .
+2 He and his cousin together have a total of num12 points .
+3 How many points does Paul 's cousin have ?	num12 num5 -	1 2
+1 A construction company is repaving a damaged road .
+2 So far , they have repaved a total of num17 inches of the road .
+3 Today , they repaved num7 inches of the road .
+4 How many inches of the road had they repaved before today ?	num17 num7 -	1 2 3
+1 Milford Lake was originally blue because it only had num17 algae plants .
+2 Now there are num6 algae plants , and the lake has turned green .
+3 How many more algae plants are in Milford Lake now ?	num6 num17 -	1 2
+1 Oscar 's bus ride to school is num15 mile and Charlie 's bus ride is num14 mile .
+2 How much longer is Oscar 's bus ride than Charlie 's ?	num15 num14 -	1
+1 Karen added num15 cup of walnuts to a batch of trail mix .
+2 Later , she added num15 cup of almonds .
+3 How many cups of nuts did Karen put in the trail mix in all ?	num15 num6 +	1 2
+1 Kendall is learning to drive , so this weekend she practiced driving num3 mile with her mother and another num19 mile with her father .
+2 How far did Kendall drive in all ?	num3 num19 +	1
+1 At a pie-eating contest , Erik got through num2 pie before time was called ; Frank finished just num9 pie .
+2 How much more pie did Erik eat than Frank ?	num2 num9 -	1
+1 A tailor cut num3 inch off a skirt and num4 inch off a pair of pants .
+2 How much more did the tailor cut off the skirt than the pants ?	num3 num4 -	1
+1 At Lindsey 's Vacation Wear , num5 the garments are bikinis and num1 are trunks .
+2 What fraction of the garments are either bikinis or trunks ?	num5 num1 +	1
+1 Darnel sprinted num7 lap and then took a break by jogging num14 lap .
+2 How much farther did Darnel sprint than jog ?	num7 num14 -	1
+1 A marine biologist measured 1 fish that was num4 foot long and a second fish that was num17 foot long .
+2 How much longer was the first fish ?	num4 num17 -	1
+1 Hannah 's Vegetarian Restaurant bought num5 pound of green peppers and num5 pound of red peppers .
+2 How many pounds of peppers did Hannah 's Vegetarian Restaurant buy in all ?	num5 num17 +	1
+1 Ella owns 2 dogs .
+2 Each day , 1 dog eats num10 scoop of dog food and the other dog eats num10 scoop .
+3 Together , how much dog food do the 2 dogs eat each day ?	num10 num1 +	1 2
+1 Blake filled a bucket with num12 gallon of water .
+2 Later , he poured out num3 gallon of the water .
+3 How much water is in the bucket ?	num12 num3 -	1 2
+1 Mandy made an apple pie .
+2 She used num1 tablespoon of cinnamon and num10 tablespoon of nutmeg .
+3 How much more cinnamon than nutmeg did Mandy use ?	num1 num10 -	1 2
+1 The Montoya family spends num7 their budget on groceries and another num4 going out to eat .
+2 Altogether , what fraction of their budget does the Montoya family spend on food ?	num7 num4 +	1
+1 In Mr. Olsen 's mathematics class , num4 the students received A 's and num5 received B 's .
+2 What fraction of the students received either A 's or B 's ?	num4 num5 +	1
+1 There is num16 cup of oil in Scarlett 's measuring cup .
+2 If Scarlett adds num1 cup more , how much oil will be in the measuring cup ?	num16 num1 +	1
+1 1 evening , a restaurant served a total of num1 loaf of wheat bread and num10 loaf of white bread .
+2 How many loaves were served in all ?	num1 num10 +	1
+1 Stanley ran num6 mile and walked num7 mile .
+2 How much farther did Stanley run than walk ?	num6 num7 -	1
+1 Dina made cookies .
+2 She used num17 cup of flour and num19 cup of sugar .
+3 How much more flour than sugar did Dina use ?	num17 num19 -	1 2
+1 Each day , the polar bear at Richmond 's zoo eats num16 bucket of trout and num12 bucket of salmon .
+2 How many buckets of fish does the polar bear eat daily ?	num16 num12 +	1
+1 Jenny ran num9 mile and walked num20 mile .
+2 How much farther did Jenny run than walk ?	num9 num20 -	1
+1 num8 the students in the band are in the trumpet section .
+2 num10 the students in the band are in the trombone section .
+3 What fraction of the students in the band are in either the trumpet section or the trombone section ?	num8 num10 +	1 2
+1 Suzie found 2 worms in the yard and measured them with a ruler .
+2 1 worm was num2 inch long .
+3 The other worm was num13 inch long .
+4 How much longer was the longer worm ?	num2 num13 -	1 2 3
+1 Scarlett made a fruit salad with num14 pound of melon and num8 pound of berries .
+2 How many pounds of fruit did Scarlett use in all ?	num14 num8 +	1
+1 Vince 's bus ride to school is num16 mile and Zachary 's bus ride is num2 mile .
+2 How much longer is Vince 's bus ride than Zachary 's ?	num16 num2 -	1
+1 In 1 week , Mitch 's family drank num13 carton of regular milk and num15 carton of soy milk .
+2 How much milk did they drink in all ?	num13 num15 +	1
+1 Elizabeth went to the salon and had num1 inch of hair cut off .
+2 The next day she went back and asked for another num16 inch to be cut off .
+3 How much hair did she have cut off in all ?	num1 num16 +	1 2
+1 In Shannon 's apartment complex , num11 the apartments are one-bedroom apartments and num16 are two-bedroom apartments .
+2 What fraction of the apartments are either 1 - or two-bedroom apartments ?	num11 num16 +	1
+1 At the beach , Miki and her sister both built sandcastles and then measured their heights .
+2 Miki 's sandcastle was num2 foot tall and her sister 's was num16 foot tall .
+3 How much taller was Miki 's sandcastle than her sister 's ?	num2 num16 -	1 2
+1 Michelle began her pizza delivery route with num7 tank of gas in her car .
+2 When she made it back to the pizzeria , num14 tank of gas was .
+3 How much gas did Michelle use ?	num7 num14 -	1 2
+1 While taking inventory at her pastry shop , Kelly realizes that she had num20 box of baking powder yesterday , but the supply is now down to num15 box .
+2 How much more baking powder did Kelly have yesterday ?	num20 num15 -	1
+1 Craig walked num14 mile from school to David 's house and num5 mile from David 's house to his own house .
+2 How many miles did Craig walk in all ?	num14 num5 +	1
+1 Greg and Sharon own neighboring cornfields .
+2 Greg harvested num13 acre of corn on Monday and Sharon harvested num6 acre .
+3 How many more acres did Greg harvest than Sharon ?	num13 num6 -	1 2
+1 At the hardware store , num19 the nails are size 2d and num6 the nails are size 4d .
+2 What fraction of the nails are either size 2d or 4d ?	num19 num6 +	1
+1 While making desserts for a bake sale , Victor used num5 scoop of brown sugar as well as num8 scoop of white sugar .
+2 How much more brown sugar did Victor use ?	num5 num8 -	1
+1 Eve ran num19 mile and walked num16 mile .
+2 How much farther did Eve run than walk ?	num19 num16 -	1
+1 Jonah added num6 cup of yellow raisins and num20 cup of black raisins to a batch of trail mix .
+2 How many cups of raisins did Jonah add in all ?	num6 num20 +	1
+1 When Jake had 1 cat , he needed to serve num5 can of cat food each day .
+2 Now that Jake has adopted a second cat , he needs to serve a total of num18 can each day .
+3 How much extra food is needed to feed the second cat ?	num18 num5 -	1 2
+1 In Yardley it snowed num15 inch in the morning and num12 inch in the afternoon .
+2 What was the total amount of snowfall ?	num15 num12 +	1
+1 While making pastries , a bakery used num19 bag of wheat flour and num13 bag of white flour .
+2 How many bags of flour did the bakery use in all ?	num19 num13 +	1
+1 Kaleen filled a bucket with num9 gallon of water .
+2 A few minutes later , she realized only num16 gallon of water remained .
+3 How much water had leaked out of the bucket ?	num9 num16 -	1 2
+1 Carefully following a recipe , Kenny used exactly num13 cup of oil and num8 cups of water .
+2 How many cups of liquid did Kenny use in all ?	num13 num8 +	1
+1 Dale 's Vegetarian Restaurant bought num8 pounds of green peppers and num8 pounds of red peppers .
+2 How many pounds of peppers did Dale 's Vegetarian Restaurant buy in all ?	num8 num15 +	1
+1 This afternoon Craig left school , rode the bus num1 miles , and then walked num12 mile to get home .
+2 How much farther did Craig ride than walk ?	num1 num12 -	1
+1 Kelly 's chemistry textbook weighs num17 pounds and her geometry textbook weighs num19 pound .
+2 How much more does the chemistry textbook weigh than the geometry textbook ?	num17 num19 -	1
+1 Roadster 's Paving Company used num14 tons of cement to pave Lexi 's street and num3 tons of cement to pave Tess 's street .
+2 How much cement did Roadster 's Paving Company use in all ?	num14 num3 +	1
+1 On a hot day , Sam poured num9 bucket of water into a plastic wading pool .
+2 A few minutes later he added another num7 buckets .
+3 How much water did Sam pour into the pool ?	num9 num7 +	1 2
+1 Kyle jogged num6 laps in P.E.
+2 class and num7 laps during track practice .
+3 How many laps did Kyle jog in all ?	num6 num7 +	1 2
+1 A bucket contains num4 gallons of water .
+2 If Derek adds num20 gallons more , how many gallons will there be in all ?	num4 num20 +	1
+1 At a pizza party , Mason and his friends drank num20 bottles of lemon-lime soda and num20 bottles of cola .
+2 How much soda did they drink in all ?	num20 num17 +	1
+1 Professor Ellison weighed 2 pieces of metal for an experiment .
+2 The piece of iron weighed num10 pounds and the piece of aluminum weighed num17 pound .
+3 How much more did the piece of iron weigh than the piece of aluminum ?	num10 num17 -	1 2
+1 As part of a lesson on earthquakes , a science class is researching the movement of a nearby fault line .
+2 The fault line moved num17 inches during the past year and num16 inches the year before .
+3 How far did the fault line move in all ?	num17 num16 +	1 2
+1 Hoping to be named Salesperson of the Month , Rosa called the names from num14 pages of the phone book last week .
+2 This week , she called the people listed on another num16 pages of the same phone book .
+3 How many pages worth of people did Rosa call in all ?	num14 num16 +	1 2
+1 At the beach , Janet and her sister both built sandcastles and then measured their heights .
+2 Janet 's sandcastle was num13 feet tall and her sister 's was num12 feet tall .
+3 How much taller was Janet 's sandcastle than her sister 's ?	num13 num12 -	1 2
+1 Nicole found an orange caterpillar and a green caterpillar in her backyard .
+2 The green caterpillar was num17 inches long and the orange caterpillar was num19 inches long .
+3 How much longer was the green caterpillar than the orange caterpillar ?	num17 num19 -	1 2
+1 Alec and his roommates ate num15 pints of ice cream on Friday night and num4 pint of ice cream on Saturday night .
+2 How many pints did they eat in all ?	num15 num4 +	1
+1 A farmer started the day with num8 buckets of seeds .
+2 After spending the morning sowing seeds , she now has num3 buckets .
+3 How many buckets of seeds did the farmer sow ?	num8 num3 -	1 2
+1 Irene just bought a new lamp for her bedside table .
+2 The old lamp was num13 foot tall and the new lamp is num7 feet tall .
+3 How much taller is the new lamp than the old lamp ?	num7 num13 -	1 2
+1 Ezra drew a white line that was num3 inches long .
+2 Then he drew a blue line that was num16 inches long .
+3 How much longer was the white line than the blue line ?	num3 num16 -	1 2
+1 There are num17 gallons of water in Becky 's fish tank .
+2 If Becky adds num20 gallons more , how many gallons will there be in all ?	num17 num20 +	1
+1 Wendy ran num13 miles and walked num10 miles .
+2 How much farther did Wendy run than walk ?	num13 num10 -	1
+1 Kenji and his classmates placed colored blocks on a scale during a science lab .
+2 The yellow block weighed num10 pounds and the green block weighed num14 pounds .
+3 How much more did the yellow block weigh than the green block ?	num10 num14 -	1 2
+1 Terrell hiked num9 miles on Saturday .
+2 Then , on Sunday , he hiked another num5 miles .
+3 How far did Terrell hike all together ?	num9 num5 +	1 2
+1 A carpenter bought a piece of wood that was num15 meters long .
+2 Then she sawed num14 meters off the end .
+3 How long is the piece of wood now ?	num15 num14 -	1 2
+1 Kelly bought num15 pounds of peanuts and num19 pounds of raisins .
+2 How many pounds of snacks did she buy in all ?	num15 num19 +	1
+1 Kevin bought 2 watermelons .
+2 The first watermelon was num6 pounds , and the second watermelon was num3 pounds .
+3 How many pounds of watermelon did Kevin buy ?	num6 num3 +	1 2
+1 In March it rained num12 inches .
+2 It rained num11 inches less in April than in March .
+3 How much did it rain in April ?	num12 num11 -	1 2
+1 Ron weighed 2 colored metal balls during a science class .
+2 The blue ball weighed num10 pounds and the brown ball weighed num9 pounds .
+3 If Ron places both balls on the scale at the same time , what will the scale read ?	num10 num9 +	1 2
+1 A bee colony produced num12 pounds of honey , but bears ate num2 pounds of it .
+2 How much honey remains ?	num12 num2 -	1
+1 It rained num1 inches on Monday .
+2 On Tuesday , it rained num5 inches less than on Monday .
+3 How much did it rain on Tuesday ?	num1 num5 -	1 2
+1 Brennan had num5 grams of pepper .
+2 Then he used num14 grams of the pepper to make some scrambled eggs .
+3 How much pepper does Brennan have ?	num5 num14 -	1 2
+1 A construction company bought num12 tons of gravel and num8 tons of sand .
+2 How many tons of material did the company buy in all ?	num12 num8 +	1
+1 It rained num3 inches on Saturday and num7 inches on Sunday .
+2 How much did it rain on Saturday and Sunday combined ?	num3 num7 +	1
+1 Pamela bought num2 ounces of sugar , and she spilled num18 ounces of it on the floor .
+2 How much is ?	num2 num18 -	1
+1 Gordon bought num3 pounds of fruit for a class party .
+2 The class ate num14 pounds of the fruit .
+3 How much fruit is ?	num3 num14 -	1 2
+1 A chef bought num1 kilograms of almonds and num15 kilograms of pecans .
+2 How many kilograms of nuts did the chef buy in all ?	num1 num15 +	1
+1 Marta picked 2 pumpkins .
+2 The first pumpkin weighed num14 pounds , and the second pumpkin weighed num3 pounds .
+3 How much did the 2 pumpkins weigh all together ?	num14 num3 +	1 2
+1 A truck carrying num19 pounds of sand travels to a construction yard and loses num13 pounds of sand along the way .
+2 How much sand does the truck have when it arrives at the yard ?	num19 num13 -	1
+1 Tori was num5 feet tall .
+2 Then she grew num1 feet taller .
+3 How tall is Tori now ?	num5 num1 +	1 2
+1 A carpenter bought a piece of wood that was num6 centimeters long .
+2 Then he sawed num8 centimeters off the end .
+3 How long is the piece of wood now ?	num6 num8 -	1 2
